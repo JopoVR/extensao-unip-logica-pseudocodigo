@@ -19,3 +19,8 @@ Estudantes do ensino médio e iniciantes em programação.
 
 ## Acesso
 Material gratuito e aberto à comunidade.
+
+## Impacto social
+Este material foi desenvolvido com o objetivo de democratizar o acesso
+ao ensino de lógica de programação, servindo como apoio educacional para
+estudantes do ensino médio e iniciantes da comunidade externa.
