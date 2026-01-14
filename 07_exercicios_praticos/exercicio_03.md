@@ -5,25 +5,25 @@ INÍCIO
     Leia num2
     Leia num3
 
-   maior ← num1
+    maior ← num1
     menor ← num1
 
-   SE num2 > maior ENTÃO
+    SE num2 > maior ENTÃO
         maior ← num2
     FIMSE
 
-   SE num3 > maior ENTÃO
+    SE num3 > maior ENTÃO
         maior ← num3
     FIMSE
 
-   SE num2 < menor ENTÃO
+    SE num2 < menor ENTÃO
         menor ← num2
     FIMSE
 
-   SE num3 < menor ENTÃO
+    SE num3 < menor ENTÃO
         menor ← num3
     FIMSE
 
-   Escreva "Maior número: ", maior
-   Escreva "Menor número: ", menor
+    Escreva "Maior número: ", maior
+    Escreva "Menor número: ", menor
 FIM
